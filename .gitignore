@@ -6,6 +6,8 @@
 *.user
 *.userosscache
 *.sln.docstates
+*.bak
+*.bak2
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
